@@ -6,14 +6,14 @@ Style Wizard
 
 `npm i stylewizard --save`
 
-```
-   import {stylewizard} from 'stylewizard;
+Then
+
+```import {stylewizard} from 'stylewizard;
 
    stylewizard({
        shadow_type: 'soft',
        padding:'false'
    });
-
 ```
 
 ## options
