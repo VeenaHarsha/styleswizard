@@ -1,0 +1,22 @@
+{
+  "name": "styles-wizard",
+  "version": "1.0.0",
+  "description": "'Styles Wizard'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeenaHarsha/styleswizard.git"
+  },
+  "keywords": [
+    "styles"
+  ],
+  "author": "veena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VeenaHarsha/styleswizard/issues"
+  },
+  "homepage": "https://github.com/VeenaHarsha/styleswizard#readme"
+}

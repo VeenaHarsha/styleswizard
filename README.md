@@ -4,8 +4,7 @@ Style Wizard
 
 # Installation
 
-`npm i stylewizard --save`
-
+`npm i styles-wizard --save`
 Then
 
 ```import {stylewizard} from 'stylewizard;
