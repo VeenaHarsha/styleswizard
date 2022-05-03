@@ -11,14 +11,17 @@ Then
 
    stylewizard({
        shadow_type: 'soft',
-       padding:'false'
+       padding:'false',
+       width:'250px'
    });
 ```
 
 ## options
 
-Style wizard supports 2 options, both of which are optional:
+Style wizard supports 3 options, all are optional:
 
 - _shadow_type_ - _hard | soft_ (Defaults to soft)
 
 - _padding_ - _boolean_ (Defaults to false)
+
+- _width_ - '500px' (defaults to '250px')
